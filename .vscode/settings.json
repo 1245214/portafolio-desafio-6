@@ -1,0 +1,11 @@
+{
+    "editor.fontSize": 16,
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "window.zoomLevel": 0,
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": false,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "liveServer.settings.port": 5501,
+}
